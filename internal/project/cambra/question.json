@@ -1,0 +1,151 @@
+{
+    "status": 200,
+    "questions": [
+        {
+            "code": 123,
+            "name": "Faktor Resiko (Faktor Predisposisi Biologis)",
+            "data": [
+                {
+                    "code": 123,
+                    "question": "Ibu atau pengasuh utama sedang memiliki gigi berlubang dan merasa sakit/ngilu pada gigi dalam 12 bulan terakhir",
+                    "weight": 1,
+                    "images": [
+                        "ic_1a1.png",
+                        "ic_1a2.png"
+                    ]
+                },
+                {
+                    "code": 123,
+                    "question": "Anak minum susu formula/susu UHT/minuman selain air dan susu dengan botol dot",
+                    "weight": 2,
+                    "images": [
+                        "ic_1b.png"
+                    ]
+                },
+                {
+                    "code": 123,
+                    "question": "Anak masih menggunakan botol dot terus menerus",
+                    "weight": 2
+                },
+                {
+                    "code": 123,
+                    "question": "Anak sering minum susu formula/UHT dengan botol dot atau ASI atas permintaan hingga tertidur",
+                    "weight": 2
+                },
+                {
+                    "code": 123,
+                    "question": "Anak sering (lebih dari 3 kali per hari) konsumsi makanan ringan bergula/makanan ringan tinggi karbohidrat /minuman bergula",
+                    "weight": 2,
+                    "images": [
+                        "ic_1e1.png",
+                        "ic_1e2.png",
+                        "ic_1e3.png",
+                    ]
+                },
+                {
+                    "code": 123,
+                    "question": "Anak sedang dalam pengobatan pengobatan asma, hiperaktif. kanker atau memiliki keturunan mulut yang kering",
+                    "weight": 2
+                },
+                {
+                    "code": 123,
+                    "question": "Anak mengalami gangguan perkembangan, atau memiliki riwayat Kesehatan yang membutuhkan penanganan khusus (autism, hiperaktif, sindroma Down, dan disabilitas lainnya)",
+                    "weight": 2
+                },
+                {
+                    "code": 123,
+                    "question": "Orangtua/pengasuh memiliki BPJS atau menerima bantuan iuran jaminan Kesehatan",
+                    "weight": 2
+                }
+            ]
+        },
+        {
+            "code": 456,
+            "name": "Faktor-faktor Pelindung",
+            "data": [
+                {
+                    "code": 456,
+                    "question": "Anak pernah menerima bantuan suplemen fluoride yang dikonsumsi dengan cara dikunyah",
+                    "weight": 3,
+                    "images": [
+                        "ic_2a.png"
+                    ]
+                },
+                {
+                    "code": 456,
+                    "question": "Anak minum cairan berfluoride misalnya susu formula yang mengandung fluoride",
+                    "weight": 3,
+                    "images": []
+                },
+                {
+                    "code": 456,
+                    "question": "Anak  menyikat gigi dengan menggunakan pasta gigi ber-fluoride (seukuran kacang) minimal sekali sehari",
+                    "weight": 3,
+                    "images": []
+                },
+                {
+                    "code": 456,
+                    "question": "Anak menyikat gigi dengan menggunakan pasta gigi ber-fluoride (seukuran kacang) minimal dua kali sehari",
+                    "weight": 3,
+                    "images": [
+                        "ic_2d.png"
+                    ]
+                },
+                {
+                    "code": 456,
+                    "question": "Anak pergi ke dokter gigi selama enam bulan terakhir untuk perawatan fluoride pelapis vitamin gigi ",
+                    "weight": 3,
+                    "images": [
+                        "ic_2e.png"
+                    ]
+                },
+                {
+                    "code": 456,
+                    "question": "Orang tua/pengasuh anak menghisap/mengunyah permen xylitol 2-4 kali sehari",
+                    "weight": 3,
+                    "images": [
+                        "ic_2f.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "code": 789,
+            "name": "Indikator Penyakit/Faktor Resiko - Pemeriksaan Klinis Anak",
+            "data": [
+                {
+                    "code": 789,
+                    "question": "Pada gigi anak terdapat bercak keputihan/lubang gigi kecoklatan/kehitaman",
+                    "weight": 1,
+                    "images": [
+                        "ic_3a1.png",
+                        "ic_3a2.png",
+                        "ic_3a3.png",
+                    ]
+                },
+                {
+                    "code": 789,
+                    "question": "Anak pernah ditambal giginya oleh dokter gigi",
+                    "weight": 1,
+                    "images": [
+                        "ic_3b.png"
+                    ]
+                },
+                {
+                    "code": 789,
+                    "question": "Gigi anak terlihat kekuningan/gusi mudah berdarah saat menyikat gigi",
+                    "weight": 2,
+                    "images": [
+                        "ic_3c1.png",
+                        "ic_3c2.png",
+                    ]
+                },
+                {
+                    "code": 789,
+                    "question": "Anak sering merasa mulutnya kering",
+                    "weight": 3
+                }
+            ]
+        }
+  ]
+}
