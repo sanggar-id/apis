@@ -74,14 +74,12 @@
                 {
                     "code": 456,
                     "question": "Anak minum cairan berfluoride misalnya susu formula yang mengandung fluoride",
-                    "weight": 3,
-                    "images": []
+                    "weight": 3
                 },
                 {
                     "code": 456,
                     "question": "Anak  menyikat gigi dengan menggunakan pasta gigi ber-fluoride (seukuran kacang) minimal sekali sehari",
-                    "weight": 3,
-                    "images": []
+                    "weight": 3
                 },
                 {
                     "code": 456,
